@@ -1,0 +1,9 @@
+.car-main-h2 {
+    margin-right: 100px;
+    font-weight: 400;
+}
+
+.car-main-h2:hover {
+    color: #ff0000;
+    cursor: pointer
+}

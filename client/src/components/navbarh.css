@@ -1,0 +1,34 @@
+.nav-links {
+    height: 39px;
+    margin-right: 1rem;
+}
+
+.nav-links:hover {
+    border: none;
+    border-bottom: 2px solid rgb(21, 21, 238);
+    font-weight: 500;
+    /* Border color on hover */
+}
+
+/* Styles for the active (clicked) effect */
+.nav-links.active {
+    border-bottom: 2px solid #ff0000;
+    /* Border color for the active link */
+}
+
+.nav-brand:hover {
+    border-bottom: 3px solid #fff;
+    /* Border color on hover */
+    padding-bottom: 0;
+    /* Remove initial padding when hovered to accommodate the border */
+    transition: padding-bottom 0.4s ease;
+    /* Smooth transition for the border to appear from the middle */
+}
+
+/* .nav-nav-stick {
+    position: fixed;
+    z-index: 101;
+    width: 100%;
+    top: 0;
+    left: 0;
+} */

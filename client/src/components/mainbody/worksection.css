@@ -1,0 +1,33 @@
+.word-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.wrap-one {
+    padding: 40px 50px 50px;
+}
+
+.wrap-one h2 {
+    color: #577ff7;
+    margin: 25px 0px 37px;
+    font-weight: 700;
+}
+
+.wrap-one p {
+    margin-top: 1rem;
+    font-style: italic;
+}
+
+.wrap-two {
+    background-image: url("./main_profile.png");
+    background-size: cover;
+    width: 427px;
+    height: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.main-work h3:hover {
+    font-size: 2rem;
+    font-weight: 900;
+    text-decoration: dashed;
+}

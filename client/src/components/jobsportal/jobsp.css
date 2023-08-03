@@ -1,0 +1,99 @@
+.job-main {
+    height: 1500px;
+    padding: 0px 200px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.job-section {
+    width: 620px;
+    height: 327px;
+    background-color: #fff;
+    padding: 28px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid #ebf0f5;
+    box-sizing: border-box;
+    border-radius: 10px 10px 0 0;
+}
+
+.names-role {
+    margin: 0 1rem 0 1.5rem;
+}
+
+.names-role h3 {
+    color: #1e272e;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.names-role p {
+    color: #9eaab7;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.job-bookmark {
+    margin-left: auto;
+    margin-right: 1rem;
+    padding-top: 1rem;
+}
+
+.job-bookmark>* {
+    margin-right: 1rem;
+    color: #1f69ff;
+    font-size: 1.5rem;
+}
+
+.job-bookmark>*:hover {
+    color: #54a4ff;
+}
+
+.job-skills {
+    height: 30px;
+    width: 300px;
+}
+
+.job-skills p {
+    border-radius: 100px;
+    /* background-color: #f7f8fa; */
+    display: flex;
+    align-items: center;
+    padding: 4.5px 10px;
+    text-align: center;
+    font-weight: 700;
+    color: #566474;
+    font-size: 1rem;
+    margin: 0;
+    background: #f7f8fa;
+}
+
+.job-skills p:hover {
+    background-color: #9eaab7;
+}
+
+.job-details-info>* {
+    margin-left: 1rem;
+}
+
+.job-details-info>* section h5 {
+    margin: 0 0 0 0.5rem;
+    color: #9eaab7;
+    font-size: 0.9rem;
+}
+
+.job-details-info>* p {
+    margin: 0.5rem 0 0 0;
+    padding: 0 0 0 1rem;
+    color: #566474;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.job-details-info>* section:first-child {
+    display: flex;
+    align-items: center;
+    color: #9eaab7;
+    font-size: 0.9rem;
+}
