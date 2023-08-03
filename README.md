@@ -1,6 +1,6 @@
 # CareerLink
 
-CareerLink is a dynamic hiring platform that connects job seekers with potential employers. This platform aims to streamline the job search process and provide a user-friendly interface for both job seekers and recruiters.
+CareerLink is a dynamic hiring platform that connects job seekers with potential employers. This platform aims to streamline the job search process and provide a user-friendly interface for both job seekers and recruiters. Project link - https://glittering-sopapillas-245c38.netlify.app/
 
 ## Tech Stack
 
